@@ -40,18 +40,20 @@
     "url": "https://swap-beta.ammbr.finance",
     "icon": "https://favicons.githubusercontent.com/swap-beta.ammbr.finance",
     "slug": "token-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 344,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
-    "dailyMinutesDown": {}
+    "time": 264,
+    "timeDay": 318,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "Ammbr NFT",
