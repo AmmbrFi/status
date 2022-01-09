@@ -22,19 +22,19 @@
     "url": "https://qmm.ammbr.finance",
     "icon": "https://favicons.githubusercontent.com/qmm.ammbr.finance",
     "slug": "ammbr-qmm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 274,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 210,
+    "timeDay": 220,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-01-09": 0
+      "2022-01-09": 16
     }
   },
   {
