@@ -40,19 +40,19 @@
     "url": "https://swap-beta.ammbr.finance",
     "icon": "https://favicons.githubusercontent.com/swap-beta.ammbr.finance",
     "slug": "token-bridge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 318,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 243,
+    "timeDay": 232,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-01-09": 0
+      "2022-01-09": 27
     }
   },
   {
