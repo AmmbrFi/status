@@ -11,6 +11,10 @@ sites:
     url: https://swap-beta.ammbr.finance
   - name: Ammbr NFT
     url: https://nft.ammbr.finance
+  - name: QMM API
+    url: https://api.ammbr.finance
+    expectedStatusCodes: 
+    - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
