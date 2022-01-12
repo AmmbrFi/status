@@ -62,19 +62,19 @@
     "url": "https://nft.ammbr.finance",
     "icon": "https://favicons.githubusercontent.com/nft.ammbr.finance",
     "slug": "ammbr-nft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 468,
-    "timeWeek": 247,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 234,
+    "timeDay": 417,
+    "timeWeek": 249,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-01-12": 0
+      "2022-01-12": 9
     }
   },
   {
